@@ -19,7 +19,8 @@ Ingresamos en nuestro navegador a localhost:8888 copiando token que nos provee:
 > Ejemplo: http://127.0.0.1:8888/?token=AQUI-VA-UN-TOKEN
 
 
-Ejecutar el archivo: [00 - Entrega.ipynb](./00 - Entrega.ipynb).  
+Ejecutar el archivo: [Entrega](notebooks/00-Entrega.ipynb).
+
 
 *En github te deja ver un notebook-viewer con los resultados que se guardaron*
 
